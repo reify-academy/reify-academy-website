@@ -3,14 +3,17 @@
   "extends": [
     "standard",
     "standard-trailing-commas",
-    "standard-react"
+    "standard-react",
+    "prettier"
   ],
+  "plugins": ["prettier"],
   "globals": {
     "graphql": true,
     "__PATH_PREFIX__": true
   },
   "rules": {
     "react/prop-types": "off",
-    "camelcase": "off"
+    "camelcase": "off",
+    "prettier/prettier": "error"
   }
 }
