@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
 title: Reify Academy
-heading: Lorem ipsum dolor sit amet
+heading: Start your software business by doing
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Schedule an intro call with us to discuss how we can help you learn to build
+  your business idea.
 offerings:
   blurbs:
     - image: /img/coffee.png
