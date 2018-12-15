@@ -1,6 +1,7 @@
 import React from 'react'
 import Content from '../Content'
 import PropTypes from 'prop-types'
+import CalculatorComponent from '../Calculator';
 
 const AboutPageTemplate = ({title, content, contentComponent}) => {
   const PageContent = contentComponent || Content
@@ -21,6 +22,9 @@ const AboutPageTemplate = ({title, content, contentComponent}) => {
             </div>
           </div>
         </div>
+      </section>
+      <section className='section'>
+        <CalculatorComponent/>
       </section>
       <section className='section section--gradient'>
         <div className='container'>
