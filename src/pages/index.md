@@ -7,14 +7,17 @@ description: >-
   adipisci velit...
 differences:
   - title: Learning With A Helping Hand.
-    paragraphs:
-      - text: Our teams work with you in 1-on-1 mentor sessions throughout the program to bring your idea to life.
-      - text: Our team’s expertise in both the teaching and the startup fields help you to select the right tools and the right processes for your dream.
+    text:
+      Our teams work with you in 1-on-1 mentor sessions throughout the program to bring your idea to life.
+
+      Our team’s expertise in both the teaching and the startup fields help you to select the right tools and the right processes for your dream.
     icon: ""
   - title: Not Another Coding Bootcamp.
     text:
-      - Our goal is to help you launch your own business, not to give you another desk job as a software engineer. We focus on technologies which help you to get going fast and help you to scale your business as it grows.
-      - The road to building your own business is a winding one. We’re here to help you through the curves.
+      Our goal is to help you launch your own business, not to give you another desk job as a software engineer.
+
+      We focus on technologies which help you to get going fast and help you to scale your business as it grows.
+      The road to building your own business is a winding one. We’re here to help you through the curves.
     icon: ""
 
 testimonials:
