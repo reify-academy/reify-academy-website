@@ -46,6 +46,7 @@
     "react-elm-components": "^1.1.0",
     "react-helmet": "^5.2.0",
     "react-share": "^2.4.0",
+    "remark-react": "^5.0.0",
     "uglifyjs-webpack-plugin": "^2.0.1"
   },
   "remarkConfig": {
