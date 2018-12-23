@@ -7,7 +7,9 @@ const Differences = ({ differences }) => (
       <div className="column level-item has-text-centered">
         <div>
           <p className="heading">{difference.title}</p>
-          <p>{difference.text}</p>
+          {difference.text.split("\n").map(t => (
+            <p>{t}</p>
+          ))}
           <img src={difference.icon} />
         </div>
       </div>
