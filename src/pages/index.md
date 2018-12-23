@@ -1,18 +1,13 @@
 ---
 templateKey: home-page
 title: Reify Academy
-heading: Lorem ipsum dolor sit amet
+heading: Start your business by doing
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
-differences:
-  - text: |
-      some text
-      and more text
-      here 
-      and 
-      multiline....^^^^
-    title: A difference
+offerings:
+  blurbs:
+    - text: Test offering
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
