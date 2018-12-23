@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import MultilineParagraph from "../MultilineParagraph";
 
 const Differences = ({ differences }) => (
   <div className="level columns">
@@ -7,9 +8,7 @@ const Differences = ({ differences }) => (
       <div className="column level-item has-text-centered">
         <div>
           <p className="heading">{difference.title}</p>
-          {difference.text.split("\n").map(t => (
-            <p>{t}</p>
-          ))}
+          <MultilineParagraph text={difference.text} />
           <img src={difference.icon} />
         </div>
       </div>
