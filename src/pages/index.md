@@ -6,7 +6,10 @@ description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
 differences:
-  - title: Our Difference
+  - text: >-
+      Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+      consectetur, adipisci velit...
+    title: Our Difference
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
