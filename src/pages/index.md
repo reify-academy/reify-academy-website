@@ -1,13 +1,12 @@
 ---
 templateKey: home-page
 title: Reify Academy
-heading: Start your business by doing
+heading: Start your software business bit by bit
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
-offerings:
-  blurbs:
-    - text: Test offering
+differences:
+  - title: Our Difference
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
